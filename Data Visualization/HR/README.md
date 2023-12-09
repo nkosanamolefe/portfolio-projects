@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/HR/hr-%20Background.jpg)
+![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/HR/HR%20Dashboard.png)
 
 ## Data Used
 
