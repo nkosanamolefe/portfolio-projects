@@ -4,7 +4,11 @@
 
 ## Analysis Goal
 
+Maximize revenue and profitability by analyzing key performance indicators across countries, brands, cities, and dealerships.
+
 ## Data Used
+
+Three datasets were used
 
 1. Sales data with 1000 rows from 2022.
 2. Car models data, there are 15 different car models.
@@ -17,15 +21,16 @@
 ## Objectives
 
 1. Present Revenue by Country
-2. Identify TOP3 Cars Sales Performers
-3. Compare Revenue x Profit between the brands
-4. Show Revenue and Sales by City and Dealer
+2. Identify top 3 Cars Sales Performers
+3. Identify top top Selling Car Models by Segment
+4. Compare Revenue x Profit between the brands
+5. Show Revenue and Sales by City and Dealer
 
 ## Summary of Findings
 
-- There are more male employees
-- White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
-- The youngest employee is 20 years old and the oldest is 57 years old
+- Botswana has the highest revenue of 6 million, compared to South Africa with 3 million.
+- The top three Dealers by Revenue are Tau's Car Sales (1.28 million), Brown's Auto (1.20 million) and Sibanda Motors (1.07 million).
+- The top selling car model by Segment is the Sedan with 25 cars sold and the lest selling car is the Pickup with 14 cars sold.
 - 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.
 - A large number of employees work at the headquarters versus remotely.
 - The average length of employment for terminated employees is around 7 years.
@@ -34,8 +39,3 @@
 - A large number of employees come from the state of Ohio.
 - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
-
-## Limitations
-
-- Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
-- Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
