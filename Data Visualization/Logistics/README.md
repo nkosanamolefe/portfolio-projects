@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowerBI
+# Logistics-Dashboard-PowerBI
 
 ![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/Logistics/Dashboard.png)
 
