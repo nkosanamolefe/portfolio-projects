@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Bhadey/portfolio-projects/blob/main/Data%20Visualization/Logistics/Dashboard.png)
 
-## Analysis GOal
+## Analysis Goal
 
 ## Data Used
 
