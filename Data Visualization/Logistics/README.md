@@ -4,6 +4,12 @@
 
 ## Data Used
 
+Three **datasets** were used
+
+Invoice Records 
+Carrier data with 1000 rows from 2022.
+Client base data, there are 15 different car models.
+
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
 
 **Data Cleaning & Analysis** - MySQL Workbench
