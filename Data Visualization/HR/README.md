@@ -6,7 +6,7 @@
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
 
-**[Data Cleaning](SQL/HR) & Analysis** - MySQL Workbench
+**[Data Cleaning]([SQL/HR](https://github.com/nkosanamolefe/portfolio-projects/tree/b0e9731e403c5763b9860495481baab49d5f3f2d/SQL/HR)) & Analysis** - MySQL Workbench
 
 **Data Visualization** - PowerBI
 
