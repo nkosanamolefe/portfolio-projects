@@ -4,7 +4,7 @@
 
 This document outlines the SQL queries used for cleaning and preparing data within the "hrproject" database. This cleaning process was essential for ensuring data consistency and accuracy prior to further analysis in my data analysis project portfolio.
 
-## Tools
+## Tech stack
 
 My-SQL
 
